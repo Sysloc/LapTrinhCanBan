@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SuDungLinQ.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -55,9 +56,10 @@ namespace SuDungLinQ
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
+            string maKH = dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString();
+            DataBG.customerEdit = _db.Customers.FirstOrDefault(kh => kh.CustomerID == maKH);
             Form fsua = new FormSuaKhachHang();
             fsua.ShowDialog();
-
         }
     }
 }

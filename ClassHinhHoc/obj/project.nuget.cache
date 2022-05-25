@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3mWu7J3KJ6o4FMfqH8ETiL/XvSvm6RF1CB59nYqNeCgbmpJglUWCm9GPUfVyC0zjOuKWsHpie98dtTyDa6Ztrg==",
+  "dgSpecHash": "eEsupFNRS5kr0fDKtTBHxw+PRhlTDh5+D1Liscmdf/wzkJczCp16LA+U8aqIGEWEk4rv2WbLEAjNXHL7JNgR4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\ClassHinhHoc\\ClassHinhHoc.csproj",
+  "projectFilePath": "C:\\Users\\NN\\Source\\Repos\\Sysloc\\LapTrinhCanBan\\ClassHinhHoc\\ClassHinhHoc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NN\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\NN\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",

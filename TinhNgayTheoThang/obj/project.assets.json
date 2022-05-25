@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\TinhNgayTheoThang\\TinhNgayTheoThang.csproj",
+      "projectUniqueName": "C:\\Users\\NN\\Source\\Repos\\Sysloc\\LapTrinhCanBan\\TinhNgayTheoThang\\TinhNgayTheoThang.csproj",
       "projectName": "TinhNgayTheoThang",
-      "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\TinhNgayTheoThang\\TinhNgayTheoThang.csproj",
+      "projectPath": "C:\\Users\\NN\\Source\\Repos\\Sysloc\\LapTrinhCanBan\\TinhNgayTheoThang\\TinhNgayTheoThang.csproj",
       "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan20220418\\TinhNgayTheoThang\\obj\\",
+      "outputPath": "C:\\Users\\NN\\Source\\Repos\\Sysloc\\LapTrinhCanBan\\TinhNgayTheoThang\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }

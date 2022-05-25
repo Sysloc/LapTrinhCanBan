@@ -11,3 +11,16 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLinQ\obj\Debug\SuDungLinQ
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLinQ\obj\Debug\SuDungLinQ.FormKhachHang.resources
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLinQ\obj\Debug\SuDungLinQ.FormThemKhachHang.resources
 C:\Users\NN\Desktop\Share\LapTrinhCanBan20220418\SuDungLinQ\obj\Debug\SuDungLinQ.FormSuaKhachHang.resources
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\bin\Debug\SuDungLinQ.exe.config
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\bin\Debug\SuDungLinQ.exe
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\bin\Debug\SuDungLinQ.pdb
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\obj\Debug\SuDungLinQ.csproj.AssemblyReference.cache
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\obj\Debug\SuDungLinQ.Form1.resources
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\obj\Debug\SuDungLinQ.FormKhachHang.resources
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\obj\Debug\SuDungLinQ.FormSuaKhachHang.resources
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\obj\Debug\SuDungLinQ.FormThemKhachHang.resources
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\obj\Debug\SuDungLinQ.Properties.Resources.resources
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\obj\Debug\SuDungLinQ.csproj.GenerateResource.cache
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\obj\Debug\SuDungLinQ.csproj.CoreCompileInputs.cache
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\obj\Debug\SuDungLinQ.exe
+C:\Users\NN\Source\Repos\Sysloc\LapTrinhCanBan\SuDungLinQ\obj\Debug\SuDungLinQ.pdb

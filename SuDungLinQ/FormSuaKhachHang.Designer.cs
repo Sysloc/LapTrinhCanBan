@@ -59,8 +59,9 @@
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(89, 44);
             this.btnThem.TabIndex = 41;
-            this.btnThem.Text = "Thêm";
+            this.btnThem.Text = "Sửa";
             this.btnThem.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // txtQuocGia
             // 
@@ -268,6 +269,7 @@
             this.Controls.Add(this.label1);
             this.Name = "FormSuaKhachHang";
             this.Text = "FormSuaKhachHang";
+            this.Load += new System.EventHandler(this.FormSuaKhachHang_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
